@@ -25,6 +25,11 @@ It allows users to quickly search for the current weather in any city, using the
 👉 [View Weather Now](https://sgj654-3000.csb.app/)
 
 
+## ChatGPT Conversation
+👉 [View my ChatGPT work log](https://github.com/hayagreeva-charyulu/weather-now/blob/main/CHAT_WITH_CHATGPT.md)
+
+
+
 ---
 
 ## 📦 Installation & Setup

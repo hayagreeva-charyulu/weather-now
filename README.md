@@ -20,6 +20,11 @@ It allows users to quickly search for the current weather in any city, using the
 - **Tailwind CSS** for styling
 - **Open-Meteo API** for weather and geocoding data
 
+
+## Live Demo
+👉 [View Weather Now](https://sgj654-3000.csb.app/)
+
+
 ---
 
 ## 📦 Installation & Setup

@@ -29,6 +29,11 @@ It allows users to quickly search for the current weather in any city, using the
 👉 [View my ChatGPT work log](https://github.com/hayagreeva-charyulu/weather-now/blob/main/CHAT_WITH_CHATGPT.md)
 
 
+## 🎥 Video Demo
+👉 [Watch the walkthrough video](https://drive.google.com/file/d/1wS2CL5_PjK-2VMTbUMiHp4Jpiaz2C6ID/view?usp=drivesdk)
+
+
+
 
 ---
 
